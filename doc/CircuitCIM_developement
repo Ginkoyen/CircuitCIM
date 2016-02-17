@@ -1,0 +1,9 @@
+Core (en C++):
+- Trouver symbole (diode, generateur, led, resistance, condensateur, bobine), faire un tileset ou spritesheeet (fichier contenant toute les images)
+- Lire json (avec library) ou autres [le mieux]
+
+Interface (en OpenGl) :
+- C/C++_GLFW_3
+- emscripten => generete du javascript a partir du C
+
+Compilation projet ==> CMake
